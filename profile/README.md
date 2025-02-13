@@ -1,25 +1,26 @@
-# MGT858 - Database Systems, Spring 2024
+# MGT858 - Database Systems, Spring 2025
 
 Hello 👋👋! This is the "about" page for [MGT858 "Database
-Systems"](https://858.mba) at the Yale School of Management in Spring 2024.
+Systems"](https://858.mba) at the Yale School of Management in Spring 2025.
 This is the third time I've taught this course. Thanks for joining! 
 
 ## Overview
 
 | Key                     | Value                                                                                                                             |
 | ----------------------- |-----------------------------------------------------------------------------------------------------------------------------------|
-| 🎓&nbsp;Course number           | MGT858                                                                                                                            |
-| 📚&nbsp;Units                  | 2 units in Yale College and equivalent elsewhere                                                                                  |
-| 👥&nbsp;Enrollment             | Open to any student at Yale                                                                                                       |
-| 📅&nbsp;Term                   | Spring-2 2024 (half-term)                                                                                                         |
-| 🕓&nbsp;Meeting Time | Monday & Wednesday 13:00-14:20 EST, March 25 - May 6, 2024                                                                        |
-| 🏫&nbsp;Meeting Location | Room 4200 in [Evans Hall](https://map.yale.edu/?id=1910#!m/560094)                                                                |
-| 💻&nbsp;Zoom link       | No zoom  🙁                                                                                                                       |
-| 📅&nbsp;Calendar | [Yale SOM Academic Calendar](https://som.yale.edu/programs/mba/integrated-curriculum/the-academic-calendar)                       |
-| 🌐&nbsp;Website         | http://858.mba (down sometimes until class begins; requires Yale VPN)                                                             |
-| 💬&nbsp;Discussions | https://github.com/orgs/yale-mgt-858-spring-2024/discussions                                                                      | 
-| 👨‍🏫&nbsp;Instructor              | Kyle Jensen                                                                                                                       |
-| 🤝&nbsp;Teaching Assistants | [Adan Rivas](mailto:adan.rivas@yale.edu), [Nora Devlin](mailto:nora.devlin@yale.edu), and [Sanat Khurana](sanat.khurana@yale.edu) |
+|  🎓&nbsp;Course  number  |  MGT858  |
+|  📚&nbsp;Units  |  2  units  in  Yale  College  and  equivalent  elsewhere  |
+|  👥&nbsp;Enrollment  |  Open  to  any  student  at  Yale  |
+|  📅&nbsp;Term  |  Spring-2  2025  (half-term)  |
+|  🕓&nbsp;Meeting  Time  |  Monday  &  Wednesday  13:00-14:20  EST,  March  25  -  May  6,  2025  |
+|  💀&nbsp;Final Exam | Monday, May 6th in class |
+|  🏫&nbsp;Meeting  Location  |  Room  2410  in  [Evans  Hall](https://map.yale.edu/?id=1910#!m/560094)  |
+|  💻&nbsp;Zoom  link  |  No  zoom  🙁  |
+|  📅&nbsp;Calendar  |  [Yale  SOM  Academic  Calendar](https://som.yale.edu/programs/mba/integrated-curriculum/the-academic-calendar)  |
+|  🌐&nbsp;Website  |  http://858.mba  (down  sometimes  until  class  begins;  requires  Yale  VPN)  |
+|  💬&nbsp;Discussions  |  https://github.com/orgs/yale-mgt-858-spring-2025/discussions  |  
+|  👨‍🏫&nbsp;Instructor  |  Kyle  Jensen  |
+| 🤝&nbsp;Teaching Assistants | [Harshal Bhatia](mailto:harshal.bhatia@yale.edu) |
 
 
 
@@ -57,14 +58,14 @@ Because our class info and policies are tracked using git, you can see if and
 how they change over the course of the semester. Further, you have the ability
 to make changes yourself---please send me a pull request. Similarly, if you
 feel these documents are lacking, please open an
-"[issue](https://github.com/yale-mgt-858-spring-2024/about)" on GitHub for this
+"[issue](https://github.com/yale-mgt-858-spring-2025/about)" on GitHub for this
 repo and we'll address the issue. Finally, because our git repo is hosted on
 GitHub, you can easily receive push notifications of changes to this repo.
 (Woot!)
 
 ## Office hours
 
-Your first stop for help should be the [classroom discussion](https://github.com/orgs/yale-mgt-858-spring-2024/discussions)
+Your first stop for help should be the [classroom discussion](https://github.com/orgs/yale-mgt-858-spring-2025/discussions)
 on GitHub. Please only email if you need private help. Please, check with the TAs first. (I care greatly about 
 you, but my inbox is often a hot mess and I'm not always the best at responding to email. 😞)
 
@@ -90,8 +91,8 @@ You will need to write code a lot of code this semester, mostly domain-specific
 query languages like [PostgreSQL-flavored SQL](https://www.postgresql.org/docs/).
 Most of the homework assignments and the final exam will require using the [git
 version control system](https://git-scm.com/) for submission. You'll sign up
-for GitHub, join the [yale-mgt-858-spring-2024
-organization](https://github.com/yale-mgt-858-spring-2024) on [GitHub](https://github.com/yale-mgt-858-spring-2024/.github/blob/main/profile/github.md) and
+for GitHub, join the [yale-mgt-858-spring-2025
+organization](https://github.com/yale-mgt-858-spring-2025) on [GitHub](https://github.com/yale-mgt-858-spring-2025/.github/blob/main/profile/github.md) and
 submit your assignments (in part) by pushing up code to GitHub. Usually I'll
 give you some starter code like empty `.sql` files with examples queries.
 When you complete your assignments, you'll make git commits and push those
@@ -186,7 +187,7 @@ You should totally be using AI assistants such at GitHub Copilot
 I ask that you not copy from other humans in "real-time".
 You are welcome to use the advice of other humans through media
 such as StackOverflow or our [class
-discussion/qa](https://github.com/orgs/yale-mgt-858-spring-2024/discussions)
+discussion/qa](https://github.com/orgs/yale-mgt-858-spring-2025/discussions)
 and also to work on your homework with your colleagues. Given such
 parameters, what do I think would constitute a violation of the
 honor code? I can think of a few things: 1) blatant copying,
