@@ -105,7 +105,17 @@ forewarned 😉.
 
 You can complete the homework assignments on any kind of computer:
 Windows, Mac, Linux, whatever. You'll almost certainly need to install
-some software in order to do so. Obviously you'll need git. You might
+some software in order to do so.
+That usually starts with choosing
+a package manager ([homebrew](https://brew.sh/) on Mac OS and
+[Chocolatey](https://chocolatey.org/) on Windows) and choosing a
+[good code editor](https://github.com/collections/text-editors). For
+most students I recommend [VSCode](https://code.visualstudio.com/),
+[Cursor](https://www.cursor.com/), or [Zed](https://zed.dev/).
+Alternatively, if you've aspirations to be shell ninja, I recommend
+[NeoVim](https://neovim.io/) or [Helix](https://helix-editor.com/).
+
+Obviously you'll need git. You might
 also need _ clients_ for different database systems. For example,
 you will almost certainly need a PostgreSQL client.  The `$XYZ`
 _client_ is a piece of software that connects to the `$XYZ` _server_
@@ -119,6 +129,8 @@ Codespaces](https://docs.github.com/en/codespaces/overview) for your
 assignments. You can find a lot of tutorials for doing that online.
 Our GitHub organizations gets CodeSpaces for free, so knock yourself
 out!
+
+
 
 
 ## Quizzes
@@ -190,16 +202,6 @@ A second way to prepare is to level-up your computer skills in general,
 particularly your *nix skills. A good resource for doing so is [MIT's
 missing semester course](https://missing.csail.mit.edu/). You should
 know how to use your terminal, no matter your operating system.
-
-Finally, you might think about getting your personal computer
-set up for writing code. That usually starts with choosing
-a package manager ([homebrew](https://brew.sh/) on Mac OS and
-[Chocolatey](https://chocolatey.org/) on Windows) and choosing a
-[good code editor](https://github.com/collections/text-editors). For
-most students I recommend [VSCode](https://code.visualstudio.com/),
-[Cursor](https://www.cursor.com/), or [Zed](https://zed.dev/).
-Alternatively, if you've aspirations to be shell ninja, I recommend
-[NeoVim](https://neovim.io/) or [Helix](https://helix-editor.com/).
 
 Also 😜, you'll want to be familiar with
 [git](https://git-scm.com/). You can find [many tutorials
