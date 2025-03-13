@@ -20,7 +20,7 @@ This is the third time I've taught this course. Thanks for joining!
 |  🌐&nbsp;Website  |  http://858.mba  (down  sometimes  until  class  begins;  requires  Yale  VPN)  |
 |  💬&nbsp;Discussions  |  https://github.com/orgs/yale-mgt-858-spring-2025/discussions  |  
 |  👨‍🏫&nbsp;Instructor  |  Kyle  Jensen  |
-|  🤝&nbsp;Teaching Assistants | [Harshal Bhatia](mailto:harshal.bhatia@yale.edu) & [Victor Avram](victor.avram@yale.edu) |
+|  🤝&nbsp;Teaching Assistants | [Harshal Bhatia](mailto:harshal.bhatia@yale.edu) & [Victor Avram](mailto:victor.avram@yale.edu) |
 
 
 MGT858 introduces students to the database systems used in modern
