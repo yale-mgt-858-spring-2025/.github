@@ -20,7 +20,7 @@ This is the third time I've taught this course. Thanks for joining!
 |  🌐&nbsp;Website  |  http://858.mba  (down  sometimes  until  class  begins;  requires  Yale  VPN)  |
 |  💬&nbsp;Discussions  |  https://github.com/orgs/yale-mgt-858-spring-2025/discussions  |  
 |  👨‍🏫&nbsp;Instructor  |  Kyle  Jensen  |
-|  🤝&nbsp;Teaching Assistants | [Harshal Bhatia](mailto:harshal.bhatia@yale.edu) |
+|  🤝&nbsp;Teaching Assistants | [Harshal Bhatia](mailto:harshal.bhatia@yale.edu) & [Victor Avram](victor.avram@yale.edu) |
 
 
 MGT858 introduces students to the database systems used in modern
@@ -81,9 +81,9 @@ Feel free to send an email if these times do not work for you.
 
 | Person          | Email | Hours            | Location/URL                                                                |
 | --------------- | ----- | ----------- | ----------------------------------------------------------------------- |
-| Kyle Jensen     | kyle.jensen@yale.edu | TBD | L400 (the Bunker) |
+| Kyle Jensen     | kyle.jensen@yale.edu | Thursdays 3-3:45 | L400 (the Bunker) |
 | Harshal Bhatia | harshal.bhatia@yale.edu | TBD | TBD |
-
+| Victor Avram | victor.avram@yale.edu  | TBD | TBD |
 
 
 ## Development environment
