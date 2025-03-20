@@ -24,8 +24,8 @@ This is the third time I've taught this course. Thanks for joining!
 
 
 MGT858 introduces students to the database systems used in modern
-technology companies.  You will emerge from this course an SQL
-ninja, well-prepared for tech sector roles including data scientist,
+technology companies.  You will emerge from this course a skilled SQL
+sculptor, well-prepared for tech sector roles including data scientist,
 product manager, and technical product manager.  The first half of
 the course covers relational databases (after a brief discussion of
 content-addressable storage) and the latter half covers other kinds
