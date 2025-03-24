@@ -13,7 +13,7 @@ This is the third time I've taught this course. Thanks for joining!
 |  👥&nbsp;Enrollment  |  Open  to  any  student  at  Yale  |
 |  📅&nbsp;Term  |  Spring-2  2025  (half-term)  |
 |  🕓&nbsp;Meeting  Time  |  Tuesday &  Thursday 13:00-14:20  EST,  March  25  -  May  6,  2025  |
-|  💀&nbsp;Final Exam | Thursday, May 6th in class |
+|  💀&nbsp;Final Exam | Thursday, May 5th in class |
 |  🏫&nbsp;Meeting  Location  |  Room  2410  in  [Evans  Hall](https://map.yale.edu/?id=1910#!m/560094)  |
 |  💻&nbsp;Zoom  link  |  No  zoom  🙁  |
 |  📅&nbsp;Calendar  |  [Yale  SOM  Academic  Calendar](https://som.yale.edu/programs/mba/integrated-curriculum/the-academic-calendar)  |
@@ -25,7 +25,7 @@ This is the third time I've taught this course. Thanks for joining!
 
 MGT858 introduces students to the database systems used in modern
 technology companies.  You will emerge from this course an SQL
-ninja, well-prepared for tech sector roles including data scientist,
+champ, well-prepared for tech sector roles including data scientist,
 product manager, and technical product manager.  The first half of
 the course covers relational databases (after a brief discussion of
 content-addressable storage) and the latter half covers other kinds
@@ -233,6 +233,8 @@ of one or more of the following resources.
 - [Yale Title IX Coordinators](https://provost.yale.edu/title-ix/coordinators) (SOM’s Title IX Coordinator is Rebecca Udler)
 - [Yale's Live Safe App](https://your.yale.edu/community/public-safety/campus-safety-services/livesafe-app)
 - [Office for Equal Opportunity Programs](https://equalopportunity.yale.edu/)
+- [Yale SOM Office of Diversity, Equity, and Inclusion](https://som.yale.edu/the-som-experience/diversity-equity-inclusion/office-of-inclusion-diversity-at-yale-som)
+
 
 ## Grading
 
