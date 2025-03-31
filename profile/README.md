@@ -12,8 +12,8 @@ This is the third time I've taught this course. Thanks for joining!
 |  📚&nbsp;Units  |  2  units  in  Yale  College  and  equivalent  elsewhere  |
 |  👥&nbsp;Enrollment  |  Open  to  any  student  at  Yale  |
 |  📅&nbsp;Term  |  Spring-2  2025  (half-term)  |
-|  🕓&nbsp;Meeting  Time  |  Tuesday &  Thursday 13:00-14:20  EST,  March  25  -  May  6,  2025  |
-|  💀&nbsp;Final Exam | Thursday, May 5th in class |
+|  🕓&nbsp;Meeting  Time  |  Monday &  Wednesday 13:00-14:20  EST,  March  25  -  May  6,  2025  |
+|  💀&nbsp;Final Exam | Monday , May 5th in class |
 |  🏫&nbsp;Meeting  Location  |  Room  2410  in  [Evans  Hall](https://map.yale.edu/?id=1910#!m/560094)  |
 |  💻&nbsp;Zoom  link  |  No  zoom  🙁  |
 |  📅&nbsp;Calendar  |  [Yale  SOM  Academic  Calendar](https://som.yale.edu/programs/mba/integrated-curriculum/the-academic-calendar)  |
