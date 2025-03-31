@@ -18,8 +18,8 @@ This is the third time I've taught this course. Thanks for joining!
 |  💻&nbsp;Zoom  link  |  No  zoom  🙁  |
 |  📅&nbsp;Calendar  |  [Yale  SOM  Academic  Calendar](https://som.yale.edu/programs/mba/integrated-curriculum/the-academic-calendar)  |
 |  🩺&nbsp;Excused absence form |  [https://forms.office.com...](https://forms.office.com/pages/responsepage.aspx?id=u76M3Tkh-E20EU4-h6vrXPLVmr3BOOhClWgGsWkBz6NUMUlIVFBaNlY1VTdZUzFGQTRHWkVURzUyTiQlQCN0PWcu&amp;route=shorturl)  |
-|  🌐&nbsp;Website  |  http://858.mba  (down  sometimes  until  class  begins;  requires  Yale  VPN)  |
-|  💬&nbsp;Discussions  |  https://github.com/orgs/yale-mgt-858-spring-2025/discussions  |  
+|  🌐&nbsp;Website  |  http://858.mba   |
+|  💬&nbsp;Discussions  |  https://github.com/orgs/yale-mgt-858-spring-2025/discussions (must be GitHub org member) |  
 |  👨‍🏫&nbsp;Instructor  |  Kyle  Jensen  |
 |  🤝&nbsp;Teaching Assistants | [Harshal Bhatia](mailto:harshal.bhatia@yale.edu) & [Victor Avram](mailto:victor.avram@yale.edu) |
 
